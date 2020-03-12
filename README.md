@@ -1,6 +1,5 @@
 2.)
 c)PB6, PB7; 3
-e)
 f)I2C Speed Mode [Fast Mode]
 
 3.)
