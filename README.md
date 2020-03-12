@@ -10,7 +10,7 @@ f)6,144V
 
 Komentar:
 Uporabila sva NUCLEO, ker nobena ploščica STM ni bila na voljo.
-
+Sprva nisva videla sprememb v STM, kar je bila napaka vezave, to sva hitro popravila.
 
 Tiskarski škrati:
 3.)
